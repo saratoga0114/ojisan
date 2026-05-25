@@ -1,0 +1,172 @@
+{
+  "site": "https://ossan-kaizen.com",
+  "updated_at": "2026-05-25T15:19:09Z",
+  "categories": {
+    "skincare": {
+      "wp_term_id": 4,
+      "name": "フェイスケア"
+    },
+    "sunscreen": {
+      "wp_term_id": 5,
+      "name": "日焼け止め"
+    },
+    "hair": {
+      "wp_term_id": 6,
+      "name": "シャンプー・頭皮"
+    },
+    "grooming": {
+      "wp_term_id": 17,
+      "name": "エチケット・身だしなみ"
+    },
+    "body": {
+      "wp_term_id": 21,
+      "name": "ボディケア"
+    }
+  },
+  "posts": {
+    "mens-body-soap-separate-face-50s-guide": {
+      "file": "feed/body/mens-body-soap-separate-face-50s-guide.html",
+      "wp_post_id": 102,
+      "rinker_post_id": "103",
+      "status": "publish"
+    },
+    "mens-deodorant-roll-on-sales-50s-guide": {
+      "file": "feed/body/mens-deodorant-roll-on-sales-50s-guide.html",
+      "wp_post_id": 118,
+      "rinker_post_id": "119",
+      "status": "publish"
+    },
+    "mens-beard-hair-removal-50s-guide": {
+      "file": "feed/grooming/mens-beard-hair-removal-50s-guide.html",
+      "wp_post_id": 173,
+      "rinker_post_id": null,
+      "status": "publish"
+    },
+    "mens-electric-shaver-sensitive-50s-guide": {
+      "file": "feed/grooming/mens-electric-shaver-sensitive-50s-guide.html",
+      "wp_post_id": 166,
+      "rinker_post_id": "167",
+      "status": "publish"
+    },
+    "mens-gray-hair-dye-beard-50s-guide": {
+      "file": "feed/grooming/mens-gray-hair-dye-beard-50s-guide.html",
+      "wp_post_id": 220,
+      "rinker_post_id": "219",
+      "status": "publish"
+    },
+    "mens-minimal-grooming-nose-eyebrow-50s-guide": {
+      "file": "feed/grooming/mens-minimal-grooming-nose-eyebrow-50s-guide.html",
+      "wp_post_id": 91,
+      "rinker_post_id": "94",
+      "status": "publish"
+    },
+    "mens-razor-sensitive-skin-50s-guide": {
+      "file": "feed/grooming/mens-razor-sensitive-skin-50s-guide.html",
+      "wp_post_id": 111,
+      "rinker_post_id": "112",
+      "status": "publish"
+    },
+    "mens-shaving-foam-sensitive-50s-guide": {
+      "file": "feed/grooming/mens-shaving-foam-sensitive-50s-guide.html",
+      "wp_post_id": 151,
+      "rinker_post_id": "152",
+      "status": "publish"
+    },
+    "mens-conditioner-dry-hair-40s-guide": {
+      "file": "feed/hair/mens-conditioner-dry-hair-40s-guide.html",
+      "wp_post_id": 210,
+      "rinker_post_id": "209",
+      "status": "publish"
+    },
+    "mens-shampoo-dry-scalp-40s-guide": {
+      "file": "feed/hair/mens-shampoo-dry-scalp-40s-guide.html",
+      "wp_post_id": 143,
+      "rinker_post_id": "138",
+      "status": "publish"
+    },
+    "mens-shampoo-dryness-conditioner-40s-guide": {
+      "file": "feed/hair/mens-shampoo-dryness-conditioner-40s-guide.html",
+      "wp_post_id": 79,
+      "rinker_post_id": "80",
+      "status": "publish"
+    },
+    "mens-shampoo-oily-scalp-40s": {
+      "file": "feed/hair/mens-shampoo-oily-scalp-40s.html",
+      "wp_post_id": 50,
+      "rinker_post_id": null,
+      "status": "publish"
+    },
+    "mens-shampoo-scalp-odor-amazon-40s-guide": {
+      "file": "feed/hair/mens-shampoo-scalp-odor-amazon-40s-guide.html",
+      "wp_post_id": 184,
+      "rinker_post_id": "183",
+      "status": "publish"
+    },
+    "mens-shampoo-scalp-odor-40s-guide": {
+      "file": "feed/hair/mens-shampoo-scalp-odor-40s-guide.html",
+      "wp_post_id": null,
+      "rinker_post_id": "81",
+      "status": "hold"
+    },
+    "mens-all-in-one-gel-busy-morning-guide": {
+      "file": "feed/skincare/mens-all-in-one-gel-busy-morning-guide.html",
+      "wp_post_id": 72,
+      "rinker_post_id": "73",
+      "status": "publish"
+    },
+    "mens-face-cream-50s-guide": {
+      "file": "feed/skincare/mens-face-cream-50s-guide.html",
+      "wp_post_id": 28,
+      "rinker_post_id": null,
+      "status": "publish"
+    },
+    "mens-face-lotion-50s-guide": {
+      "file": "feed/skincare/mens-face-lotion-50s-guide.html",
+      "wp_post_id": 159,
+      "rinker_post_id": "153",
+      "status": "publish"
+    },
+    "mens-face-wash-dry-skin-50s-guide": {
+      "file": "feed/skincare/mens-face-wash-dry-skin-50s-guide.html",
+      "wp_post_id": 127,
+      "rinker_post_id": "128",
+      "status": "publish"
+    },
+    "mens-face-wash-oily-50s-guide": {
+      "file": "feed/skincare/mens-face-wash-oily-50s-guide.html",
+      "wp_post_id": 58,
+      "rinker_post_id": "59",
+      "status": "publish"
+    },
+    "mens-lip-balm-unscented-50s-guide": {
+      "file": "feed/skincare/mens-lip-balm-unscented-50s-guide.html",
+      "wp_post_id": 136,
+      "rinker_post_id": "137",
+      "status": "publish"
+    },
+    "mens-minimal-morning-routine-50s-guide": {
+      "file": "feed/skincare/mens-minimal-morning-routine-50s-guide.html",
+      "wp_post_id": 86,
+      "rinker_post_id": "59",
+      "status": "publish"
+    },
+    "mens-minimal-night-routine-50s-guide": {
+      "file": "feed/skincare/mens-minimal-night-routine-50s-guide.html",
+      "wp_post_id": 97,
+      "rinker_post_id": "19",
+      "status": "publish"
+    },
+    "sales-outdoor-uv-not-sticky": {
+      "file": "feed/sunscreen/sales-outdoor-uv-not-sticky.html",
+      "wp_post_id": 46,
+      "rinker_post_id": null,
+      "status": "publish"
+    },
+    "uv-reapply-stick-sales-guide": {
+      "file": "feed/sunscreen/uv-reapply-stick-sales-guide.html",
+      "wp_post_id": 65,
+      "rinker_post_id": "66",
+      "status": "publish"
+    }
+  }
+}

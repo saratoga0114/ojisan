@@ -144,8 +144,18 @@ pakapaka / saratoga で既に使っている場合、手元の `yyi-rinker-*.zip
 
 ## 10. AdSense（後回し）
 
-- 記事 **5〜10本** ＋ 固定ページ整備後に申請
+- 記事 **5〜10本** ＋ 固定ページ整備後に申請（現状20本公開済み）
 - 審査中は AF 記事の量産を続けて問題なし
+
+---
+
+## 11. REST API 同期（任意）
+
+手動貼り付けの代わりに `feed/*.html` → WordPress を自動化できます。
+
+- 手順: [docs/wp-sync.md](wp-sync.md)
+- 認証: **アプリケーションパスワード**（ユーザー → プロフィール）
+- 台帳: `docs/posts-manifest.json`（slug ↔ WP 投稿 ID）
 
 ---
 

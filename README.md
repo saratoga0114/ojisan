@@ -145,9 +145,9 @@ ojisan/
 
 1. `docs/article-template.md` でペルソナ・KW・欲求軸を宣言
 2. 選び方条件 → 候補比較 → 口コミ要約 → 主役1本
-3. `docs/product-master.md` に商品・`post_id` を追記
-4. `feed/{カテゴリ}/` または `static/` に HTML を保存（メタコメント付き）
-5. WordPress に貼り付け → 該当 **カテゴリ** を付与 → Rinker `post_id` を確認
+3. `docs/product-master.md` に商品・Rinker `post_id` を追記
+4. `feed/{カテゴリ}/` に HTML を保存（メタコメント付き）
+5. WordPress へ反映 — [`docs/wp-sync.md`](docs/wp-sync.md) の REST 同期（**新規記事は `wp_push --apply`**）。既存20本は手動公開済み・manifest 同期済み
 
 カテゴリ設計・WP との対応は [feed/README.md](feed/README.md)。
 
@@ -226,11 +226,13 @@ ojisan/
 - [x] 第19記事公開（`mens-face-lotion-50s-guide`・Rinker 153）／第1・第11・第15記事に内部リンク反映
 - [x] 第20記事公開（`mens-electric-shaver-sensitive-50s-guide`・Rinker 167）／第13記事に内部リンク反映
 - [x] 第21記事公開（`mens-beard-hair-removal-50s-guide`・Rinkerなし）／第20記事に内部リンク反映
-- [ ] AdSense は記事5〜10本＋固定ページ後に申請（**現状20本公開**）
+- [x] 第22記事公開（`mens-shampoo-scalp-odor-amazon-40s-guide`・Rinker 183）／第3・第12・第14に内部リンク反映
+- [x] 第23記事公開（`mens-conditioner-dry-hair-40s-guide`・Rinker 209）／第3・第7・第17に内部リンク反映
+- [ ] AdSense は記事5〜10本＋固定ページ後に申請（**現状22本公開**）
 
 ---
 
-## 公開記事（20本）
+## 公開記事（22本）
 
 | 順 | slug | カテゴリ | Rinker | 状態 |
 | --- | --- | --- | --- | --- |
@@ -255,6 +257,9 @@ ojisan/
 | 19 | `mens-face-lotion-50s-guide` | フェイスケア | 153 | 公開済 |
 | 20 | `mens-electric-shaver-sensitive-50s-guide` | エチケット・身だしなみ | 167 | 公開済 |
 | 21 | `mens-beard-hair-removal-50s-guide` | エチケット・身だしなみ | — | 公開済 |
+| 22 | `mens-shampoo-scalp-odor-amazon-40s-guide` | シャンプー・頭皮 | 183 | 公開済 |
+| 23 | `mens-conditioner-dry-hair-40s-guide` | シャンプー・頭皮 | 209 | 公開済 |
+| 24 | `mens-gray-hair-dye-beard-50s-guide` | エチケット・身だしなみ | 219 | 公開済 |
 
 ### 記事ロードマップ（8〜21）
 
@@ -274,6 +279,22 @@ ojisan/
 | 19 | **L.** メンズ化粧水（洗顔→ローション→クリーム） | 公開済 |
 | 20 | **M.** 電気シェーバー（敏感肌・朝の時短） | 公開済 |
 | 21 | **N.** ヒゲ脱毛（医療・サロン・剃り続け） | 公開済 |
+
+### 記事ロードマップ（22〜30）
+
+第22以降の詳細（テーマ・slug案・優先順・執筆メモ）は **[docs/article-roadmap.md](docs/article-roadmap.md)** を参照。
+
+| 順 | テーマ | 状態 |
+| --- | --- | --- |
+| 22 | **O.** 頭皮匂い・消臭シャンプー（Amazon可・第8代替） | 公開済 |
+| 23 | **P.** コンディショナー（きしみ・パサつき） | 公開済 |
+| 24 | **Q.** 白髪・白ヒゲ染め（近距離） | 公開済 |
+| 25 | **R.** 目元クリーム（クマ・たるみ） | 未着手 |
+| 26 | **S.** 身だしなみ hub | 未着手 |
+| 27 | **T.** 日焼け止め hub | 未着手 |
+| 28 | **U.** ハンドクリーム（握手・乾燥） | 未着手 |
+| 29 | **V.** 第21更新（クリニックAF・Phase2） | 未着手 |
+| 30 | **W.** ボディトリマー（胸毛・襟足） | 未着手 |
 
 公開 URL（想定）:
 
@@ -297,8 +318,11 @@ ojisan/
 - https://ossan-kaizen.com/mens-face-lotion-50s-guide/
 - https://ossan-kaizen.com/mens-electric-shaver-sensitive-50s-guide/
 - https://ossan-kaizen.com/mens-beard-hair-removal-50s-guide/
+- https://ossan-kaizen.com/mens-shampoo-scalp-odor-amazon-40s-guide/
+- https://ossan-kaizen.com/mens-conditioner-dry-hair-40s-guide/
+- https://ossan-kaizen.com/mens-gray-hair-dye-beard-50s-guide/
 
-※ 第8（頭皮匂い・デオドラント）は楽天アンファー公式限定のため Rinker／アフィリ不可 → **公開保留**。ソースは `feed/hair/mens-shampoo-scalp-odor-40s-guide.html` に残置。
+※ 第8（頭皮匂い・デオドラント）は楽天アンファー公式限定のため Rinker／アフィリ不可 → **公開保留**。**第22がAmazon可の実用版**。ソースは `feed/hair/mens-shampoo-scalp-odor-40s-guide.html`（第8）と `feed/hair/mens-shampoo-scalp-odor-amazon-40s-guide.html`（第22）に残置。
 
 ソースは `feed/{カテゴリ}/` に HTML 管理。リライト時は執筆時点の価格・評価を各モールで再確認。
 
@@ -310,6 +334,8 @@ ojisan/
 - [feed/ カテゴリ設計](feed/README.md)
 - [商品マスター](docs/product-master.md)
 - [記事テンプレート](docs/article-template.md)
+- [WordPress REST 同期](docs/wp-sync.md)
+- [記事ロードマップ（第22以降）](docs/article-roadmap.md)
 - [blog 書式仕様](../blog/README.md)
 - [セールスライティング仕様](../blog/note/セールスライティング仕様.md)
 

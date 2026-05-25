@@ -87,6 +87,9 @@ feed/{カテゴリ}/{slug}.html
 | 19 | `skincare/mens-face-lotion-50s-guide.html` | フェイスケア | 153 | 公開済 |
 | 20 | `grooming/mens-electric-shaver-sensitive-50s-guide.html` | エチケット・身だしなみ | 167 | 公開済 |
 | 21 | `grooming/mens-beard-hair-removal-50s-guide.html` | エチケット・身だしなみ | — | 公開済 |
+| 22 | `hair/mens-shampoo-scalp-odor-amazon-40s-guide.html` | シャンプー・頭皮 | 183 | 公開済 |
+| 23 | `hair/mens-conditioner-dry-hair-40s-guide.html` | シャンプー・頭皮 | 209 | 公開済 |
+| 24 | `grooming/mens-gray-hair-dye-beard-50s-guide.html` | エチケット・身だしなみ | 219 | 公開済 |
 
 ---
 
@@ -111,6 +114,24 @@ feed/{カテゴリ}/{slug}.html
 
 ---
 
+## 記事ロードマップ（22〜30）
+
+詳細は **[../docs/article-roadmap.md](../docs/article-roadmap.md)** を参照。
+
+| 順 | テーマ | 配置 | 状態 |
+| --- | --- | --- | --- |
+| 22 | **O.** 頭皮匂い・消臭（Amazon可・第8代替） | `feed/hair/` | 公開済 |
+| 23 | **P.** コンディショナー（きしみ） | `feed/hair/` | 公開済 |
+| 24 | **Q.** 白髪・白ヒゲ染め | `feed/grooming/` | 公開済 |
+| 25 | **R.** 目元クリーム | `feed/skincare/` | 未着手 |
+| 26 | **S.** 身だしなみ hub | `feed/grooming/` | 未着手 |
+| 27 | **T.** 日焼け止め hub | `feed/sunscreen/` | 未着手 |
+| 28 | **U.** ハンドクリーム | `feed/body/` | 未着手 |
+| 29 | **V.** 第21更新（クリニックAF） | — | Phase2 |
+| 30 | **W.** ボディトリマー | `feed/grooming/` | 未着手 |
+
+---
+
 ## 将来の拡張（記事が増えてから）
 
 | 追加 | 用途 |
@@ -118,6 +139,7 @@ feed/{カテゴリ}/{slug}.html
 | `hubs/` | カテゴリ索引ページ（saratoga の `hubs/` と同様） |
 | `template/` | 同型記事の量産テンプレ |
 | `feed/{新カテゴリ}/` | 例：制汗・デオドラント等（第8保留テーマの代替） |
+| `docs/article-roadmap.md` | 第22以降のテーマ・優先順・slug案 |
 
 **5大欲求（金・仕事・名声・女・家族）** でフォルダを切らない。欲求は記事内の訴求軸であり、商品カテゴリと一致しないためです。
 
