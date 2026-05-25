@@ -90,7 +90,7 @@ pakapaka / saratoga で既に使っている場合、手元の `yyi-rinker-*.zip
 
 1. Amazon アソシエイト ID
 2. 楽天アフィリエイト ID
-3. Yahoo バリューコマース（利用する場合）
+3. Yahoo バリューコマース（**設定済**・2026-05）
 4. 商品を3本登録 → `post_id` を `docs/product-master.md` に記録
 
 ---
@@ -142,9 +142,9 @@ pakapaka / saratoga で既に使っている場合、手元の `yyi-rinker-*.zip
 
 ---
 
-## 10. AdSense（後回し）
+## 10. AdSense
 
-- 記事 **5〜10本** ＋ 固定ページ整備後に申請（現状20本公開済み）
+- 2026-05に申請済。**審査結果待ち**
 - 審査中は AF 記事の量産を続けて問題なし
 
 ---

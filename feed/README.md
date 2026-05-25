@@ -90,6 +90,42 @@ feed/{カテゴリ}/{slug}.html
 | 22 | `hair/mens-shampoo-scalp-odor-amazon-40s-guide.html` | シャンプー・頭皮 | 183 | 公開済 |
 | 23 | `hair/mens-conditioner-dry-hair-40s-guide.html` | シャンプー・頭皮 | 209 | 公開済 |
 | 24 | `grooming/mens-gray-hair-dye-beard-50s-guide.html` | エチケット・身だしなみ | 219 | 公開済 |
+| 25 | `skincare/mens-eye-cream-50s-guide.html` | フェイスケア | 223 | 公開済 |
+| 26 | `grooming/mens-minimal-grooming-hub-50s-guide.html` | エチケット・身だしなみ | 94 | 公開済 |
+| 27 | `sunscreen/mens-outdoor-uv-hub-sales-guide.html` | 日焼け止め | 20 | 公開済 |
+| 28 | `body/mens-hand-cream-sales-50s-guide.html` | ボディケア | 252 | 公開済 |
+| 29 | `grooming/mens-beard-hair-removal-50s-guide.html`（Phase2更新） | エチケット・身だしなみ | — | 公開済 |
+| 30 | `grooming/mens-body-trimmer-50s-guide.html` | エチケット・身だしなみ | 262 | 公開済 |
+| 31 | `hair/mens-shampoo-scalp-hub-40s-guide.html` | シャンプー・頭皮 | 21 | 公開済 |
+| 32 | `body/mens-foot-deodorant-sales-50s-guide.html` | ボディケア | 278 | 公開済 |
+| 33 | `skincare/mens-minimal-skincare-hub-50s-guide.html` | フェイスケア | 59 | 公開済 |
+| 34 | `grooming/mens-meeting-grooming-hub-50s-guide.html` | エチケット・身だしなみ | 252 | 公開済 |
+| 35 | `body/mens-body-mist-unscented-50s-guide.html` | ボディケア | 301 | 公開済 |
+| 36 | `body/mens-body-care-hub-50s-guide.html` | ボディケア | 103 | 公開済 |
+| 37 | `hair/mens-thinning-hair-shampoo-50s-guide.html` | シャンプー・頭皮 | 324 | 公開済 |
+| 38 | `grooming/mens-suit-wrinkle-steamer-50s-guide.html` | エチケット・身だしなみ | 334 | 公開済 |
+| 39 | `grooming/mens-leather-shoe-polish-50s-guide.html` | エチケット・身だしなみ | 342 | 公開済 |
+| 40 | `grooming/mens-leather-shoe-waterproof-spray-50s-guide.html` | エチケット・身だしなみ | 349 | 公開済 |
+| 41 | `grooming/mens-suit-lint-roller-50s-guide.html` | エチケット・身だしなみ | 361 | 公開済 |
+| 42 | `body/mens-mouthwash-unscented-sales-50s-guide.html` | ボディケア | 369 | 公開済 |
+| 43 | `grooming/mens-leather-briefcase-care-50s-guide.html` | エチケット・身だしなみ | 377 | 公開済 |
+| 44 | `grooming/mens-shirt-collar-stain-50s-guide.html` | エチケット・身だしなみ | 386 | 公開済 |
+| 45 | `grooming/mens-suit-clothes-brush-50s-guide.html` | エチケット・身だしなみ | 393 | 公開済 |
+| 46 | `grooming/mens-suit-fabric-refresher-spray-50s-guide.html` | エチケット・身だしなみ | 407 | 公開済 |
+| 47 | `grooming/mens-shirt-collar-prewash-50s-guide.html` | エチケット・身だしなみ | 443 | 公開済 |
+| 48 | `grooming/mens-shirt-collar-stubborn-prewash-50s-guide.html` | エチケット・身だしなみ | 448 | 公開済 |
+| 49 | `body/mens-foot-spray-sales-50s-guide.html` | ボディケア | 454 | 公開済 |
+| 50 | `body/mens-body-powder-spray-50s-guide.html` | ボディケア | 458 | 公開済 |
+| 51 | `skincare/mens-winter-dry-skin-hub-50s-guide.html` | フェイスケア | 128（索引） | 公開済（WP 473） |
+| 52 | `grooming/mens-suit-fabric-refresher-budget-50s-guide.html` | エチケット・身だしなみ | 481 | 公開済 |
+| 53 | `body/mens-toothpaste-bad-breath-sales-50s-guide.html` | ボディケア | 485 | 公開済 |
+| 54 | `grooming/mens-nape-line-self-shave-50s-guide.html` | エチケット・身だしなみ | 495 | 公開済 |
+| 55 | `body/mens-toothpaste-breath-care-50s-guide.html` | ボディケア | 523 | 公開済（WP 522） |
+| 56 | `body/mens-toothpaste-gum-care-50s-guide.html` | ボディケア | 549 | 公開済（WP 543） |
+| 57 | `body/mens-toothpaste-stain-care-50s-guide.html` | ボディケア | 560 | 公開済（WP 557） |
+| 58 | `body/mens-mouthwash-listerine-zero-plus-50s-guide.html` | ボディケア | 568 | 公開済（WP 566） |
+| 59 | `body/mens-mouthwash-ora2-stain-clear-50s-guide.html` | ボディケア | 575 | 公開済（WP 573） |
+| 60 | `hair/mens-adogen-dry-shampoo-50s-guide.html` | シャンプー・頭皮 | 586 | 公開済（WP 585） |
 
 ---
 
@@ -123,12 +159,34 @@ feed/{カテゴリ}/{slug}.html
 | 22 | **O.** 頭皮匂い・消臭（Amazon可・第8代替） | `feed/hair/` | 公開済 |
 | 23 | **P.** コンディショナー（きしみ） | `feed/hair/` | 公開済 |
 | 24 | **Q.** 白髪・白ヒゲ染め | `feed/grooming/` | 公開済 |
-| 25 | **R.** 目元クリーム | `feed/skincare/` | 未着手 |
-| 26 | **S.** 身だしなみ hub | `feed/grooming/` | 未着手 |
-| 27 | **T.** 日焼け止め hub | `feed/sunscreen/` | 未着手 |
-| 28 | **U.** ハンドクリーム | `feed/body/` | 未着手 |
-| 29 | **V.** 第21更新（クリニックAF） | — | Phase2 |
-| 30 | **W.** ボディトリマー | `feed/grooming/` | 未着手 |
+| 25 | **R.** 目元クリーム | `feed/skincare/` | 公開済 |
+| 26 | **S.** 身だしなみ hub | `feed/grooming/` | 公開済 |
+| 27 | **T.** 日焼け止め hub | `feed/sunscreen/` | 公開済 |
+| 28 | **U.** ハンドクリーム | `feed/body/` | 公開済 |
+| 29 | **V.** 第21 Phase2 | — | Phase2更新済 |
+| 30 | **W.** ボディトリマー | `feed/grooming/` | 公開済 |
+
+---
+
+## 記事ロードマップ（31以降・フェーズ4）
+
+詳細は **[../docs/article-roadmap.md](../docs/article-roadmap.md)** のフェーズ4を参照。
+
+| 順 | テーマ | 配置 | 状態 |
+| --- | --- | --- | --- |
+| 31 | **X.** シャンプー・頭皮 hub | `feed/hair/` | 公開済 |
+| 32 | **Y.** フットケア（靴・匂い） | `feed/body/` | 公開済 |
+| 33 | **Z.** フェイスケア hub | `feed/skincare/` | 公開済 |
+| 34 | **AA.** 面接・会議 hub | `feed/grooming/` | 公開済 |
+| 35 | **AB.** 無香料ボディミスト | `feed/body/` | 公開済 |
+| 36 | **AC.** ボディケア hub | `feed/body/` | 公開済 |
+| 37 | **AD.** 薄毛・ボリュームシャンプー | `feed/hair/` | 公開済 |
+| 38 | **AE.** スーツ・シワ・衣類スチーマー | `feed/grooming/` | 公開済 |
+| 39 | **AF.** 革靴・靴磨き | `feed/grooming/` | 公開済 |
+| 40 | **AG.** 革靴・防水スプレー | `feed/grooming/` | 公開済 |
+| 41 | **AH.** スーツ・ホコリ・粘着ローラー | `feed/grooming/` | 公開済 |
+
+審査・収益化（2026-05）: バリューコマース**完了**（商品AF）／AdSense**審査中**／クリニックAF→**A8等・未登録**
 
 ---
 
@@ -149,5 +207,5 @@ feed/{カテゴリ}/{slug}.html
 
 | パス | 用途 |
 | --- | --- |
-| `static/` | 運営者情報・プライバシーポリシー等 **固定ページ** |
+| `static/` | 運営者情報・プライバシーポリシー（WP固定ページ）、ASP申請用サイト紹介文（`about.html`・非公開） |
 | `feed/` | **投稿記事** のみ |

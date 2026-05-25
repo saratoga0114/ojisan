@@ -108,7 +108,7 @@
 | CMS | WordPress（Gutenberg） |
 | アフィリリンク | **Rinker** プラグイン（`[itemlink post_id="..."]`）— **WP 公式検索不可。BOOTH から ZIP アップロード**（`docs/xserver-setup.md` 参照） |
 | ASP | Amazon / 楽天 / Yahoo ショッピング（アカウント保有済み） |
-| AdSense | ドメイン取得・審査後。初期はアフィリのみ |
+| AdSense | 申請済・審査中（2026-05） |
 | note | 主戦場にしない。特おすすめ記事への **誘導用** のみ |
 
 ---
@@ -153,12 +153,13 @@ ojisan/
 
 ### 固定ページ（`static/`）
 
-| ファイル | WP 固定ページ | slug 例 |
+| ファイル | 用途 | WP 公開 |
 | --- | --- | --- |
-| `static/owner.html` | 運営者情報 | `owner` または `about` |
+| `static/about.html` | **ASP申請用**サイト紹介文（審査フォームへコピー） | しない |
+| `static/owner.html` | 運営者情報 | `owner` |
 | `static/privacy.html` | プライバシーポリシー | `privacy` |
 
-ソース更新後は WP 側の該当固定ページにも再貼り付けする。
+`owner.html` / `privacy.html` はソース更新後、WP 側の該当固定ページにも再貼り付けする。
 
 ---
 
@@ -168,7 +169,9 @@ ojisan/
 | --- | --- |
 | ドメイン | **ossan-kaizen.com** |
 | サイト名 | **おじさん改善ラボ**（確定） |
+| 運営者名 | **改善係**（JIN:R プロフィール・運営者情報に使用） |
 | キャッチフレーズ | **45歳からの身だしなみと清潔感** |
+| ASP申請用サイト紹介文 | `static/about.html`（短文版・確定） |
 | URL | https://ossan-kaizen.com |
 | サーバー | エックスサーバー（レンタルサーバー） |
 | CMS | WordPress（Gutenberg） |
@@ -228,11 +231,13 @@ ojisan/
 - [x] 第21記事公開（`mens-beard-hair-removal-50s-guide`・Rinkerなし）／第20記事に内部リンク反映
 - [x] 第22記事公開（`mens-shampoo-scalp-odor-amazon-40s-guide`・Rinker 183）／第3・第12・第14に内部リンク反映
 - [x] 第23記事公開（`mens-conditioner-dry-hair-40s-guide`・Rinker 209）／第3・第7・第17に内部リンク反映
-- [ ] AdSense は記事5〜10本＋固定ページ後に申請（**現状22本公開**）
+- [x] AdSense 申請（2026-05・**審査中**）
+- [x] バリューコマース：Rinker Yahoo ID 設定済（2026-05）
+- [ ] クリニックAF：A8.net 等に**未登録** → 登録・審査通過後、第21に紹介リンク追記
 
 ---
 
-## 公開記事（22本）
+## 公開記事（41本）
 
 | 順 | slug | カテゴリ | Rinker | 状態 |
 | --- | --- | --- | --- | --- |
@@ -260,6 +265,29 @@ ojisan/
 | 22 | `mens-shampoo-scalp-odor-amazon-40s-guide` | シャンプー・頭皮 | 183 | 公開済 |
 | 23 | `mens-conditioner-dry-hair-40s-guide` | シャンプー・頭皮 | 209 | 公開済 |
 | 24 | `mens-gray-hair-dye-beard-50s-guide` | エチケット・身だしなみ | 219 | 公開済 |
+| 25 | `mens-eye-cream-50s-guide` | フェイスケア | 223 | 公開済 |
+| 26 | `mens-minimal-grooming-hub-50s-guide` | エチケット・身だしなみ | 94 | 公開済 |
+| 27 | `mens-outdoor-uv-hub-sales-guide` | 日焼け止め | 20 | 公開済 |
+| 28 | `mens-hand-cream-sales-50s-guide` | ボディケア | 252 | 公開済 |
+| 29 | `mens-beard-hair-removal-50s-guide` | エチケット・身だしなみ | — | 公開済（Phase2） |
+| 30 | `mens-body-trimmer-50s-guide` | エチケット・身だしなみ | 262 | 公開済 |
+| 31 | `mens-shampoo-scalp-hub-40s-guide` | シャンプー・頭皮 | 21 | 公開済 |
+| 32 | `mens-foot-deodorant-sales-50s-guide` | ボディケア | 278 | 公開済 |
+| 33 | `mens-minimal-skincare-hub-50s-guide` | フェイスケア | 59 | 公開済 |
+| 34 | `mens-meeting-grooming-hub-50s-guide` | エチケット・身だしなみ | 252 | 公開済 |
+| 35 | `mens-body-mist-unscented-50s-guide` | ボディケア | 301 | 公開済 |
+| 36 | `mens-body-care-hub-50s-guide` | ボディケア | 103 | 公開済 |
+| 37 | `mens-thinning-hair-shampoo-50s-guide` | シャンプー・頭皮 | 324 | 公開済 |
+| 38 | `mens-suit-wrinkle-steamer-50s-guide` | エチケット・身だしなみ | 334 | 公開済 |
+| 39 | `mens-leather-shoe-polish-50s-guide` | エチケット・身だしなみ | 342 | 公開済 |
+| 40 | `mens-leather-shoe-waterproof-spray-50s-guide` | エチケット・身だしなみ | 349 | 公開済 |
+| 41 | `mens-suit-lint-roller-50s-guide` | エチケット・身だしなみ | 361 | 公開済 |
+| 42 | `mens-mouthwash-unscented-sales-50s-guide` | ボディケア | 369 | 公開済 |
+| 43 | `mens-leather-briefcase-care-50s-guide` | エチケット・身だしなみ | 377 | 公開済 |
+| 44 | `mens-shirt-collar-stain-50s-guide` | エチケット・身だしなみ | 386 | 公開済 |
+| 45 | `mens-suit-clothes-brush-50s-guide` | エチケット・身だしなみ | 393 | 公開済 |
+| 46 | `mens-suit-fabric-refresher-spray-50s-guide` | エチケット・身だしなみ | 407 | 公開済 |
+| 47 | `mens-shirt-collar-prewash-50s-guide` | エチケット・身だしなみ | 443 | 公開済 |
 
 ### 記事ロードマップ（8〜21）
 
@@ -289,14 +317,39 @@ ojisan/
 | 22 | **O.** 頭皮匂い・消臭シャンプー（Amazon可・第8代替） | 公開済 |
 | 23 | **P.** コンディショナー（きしみ・パサつき） | 公開済 |
 | 24 | **Q.** 白髪・白ヒゲ染め（近距離） | 公開済 |
-| 25 | **R.** 目元クリーム（クマ・たるみ） | 未着手 |
-| 26 | **S.** 身だしなみ hub | 未着手 |
-| 27 | **T.** 日焼け止め hub | 未着手 |
-| 28 | **U.** ハンドクリーム（握手・乾燥） | 未着手 |
-| 29 | **V.** 第21更新（クリニックAF・Phase2） | 未着手 |
-| 30 | **W.** ボディトリマー（胸毛・襟足） | 未着手 |
+| 25 | **R.** 目元クリーム（クマ・たるみ） | 公開済 |
+| 26 | **S.** 身だしなみ hub | 公開済 |
+| 27 | **T.** 日焼け止め hub | 公開済 |
+| 28 | **U.** ハンドクリーム（握手・乾燥） | 公開済 |
+| 29 | **V.** 第21 Phase2更新 | Phase2更新済 |
+| 30 | **W.** ボディトリマー（胸毛・襟足） | 公開済 |
 
-公開 URL（想定）:
+---
+
+## 記事ロードマップ（31以降・フェーズ4）
+
+詳細は [docs/article-roadmap.md](docs/article-roadmap.md) のフェーズ4を参照。
+
+| 順 | テーマ | 状態 |
+| --- | --- | --- |
+| 31 | **X.** シャンプー・頭皮 hub | 公開済 |
+| 32 | **Y.** フットケア（靴・匂い） | 公開済 |
+| 33 | **Z.** フェイスケア hub | 公開済 |
+| 34 | **AA.** 面接・会議 hub | 公開済 |
+| 35 | **AB.** 無香料ボディミスト | 公開済 |
+| 36 | **AC.** ボディケア hub | 公開済 |
+| 37 | **AD.** 薄毛・ボリュームシャンプー | 公開済 |
+| 38 | **AE.** スーツ・シワ・衣類スチーマー | 公開済 |
+| 39 | **AF.** 革靴・靴磨き | 公開済 |
+| 40 | **AG.** 革靴・防水スプレー | 公開済 |
+
+**推奨次**: 第39テーマ検討
+
+**審査・収益化**: バリューコマース**完了**（商品AF・Rinker設定済）／AdSense**審査中**／クリニックAF→**A8等・未登録**（第21リンク追記は登録後）
+
+---
+
+## 公開 URL（想定）
 
 - https://ossan-kaizen.com/mens-face-cream-50s-guide/
 - https://ossan-kaizen.com/sales-outdoor-uv-not-sticky/
@@ -321,6 +374,28 @@ ojisan/
 - https://ossan-kaizen.com/mens-shampoo-scalp-odor-amazon-40s-guide/
 - https://ossan-kaizen.com/mens-conditioner-dry-hair-40s-guide/
 - https://ossan-kaizen.com/mens-gray-hair-dye-beard-50s-guide/
+- https://ossan-kaizen.com/mens-eye-cream-50s-guide/
+- https://ossan-kaizen.com/mens-minimal-grooming-hub-50s-guide/
+- https://ossan-kaizen.com/mens-outdoor-uv-hub-sales-guide/
+- https://ossan-kaizen.com/mens-hand-cream-sales-50s-guide/
+- https://ossan-kaizen.com/mens-body-trimmer-50s-guide/
+- https://ossan-kaizen.com/mens-shampoo-scalp-hub-40s-guide/
+- https://ossan-kaizen.com/mens-foot-deodorant-sales-50s-guide/
+- https://ossan-kaizen.com/mens-minimal-skincare-hub-50s-guide/
+- https://ossan-kaizen.com/mens-meeting-grooming-hub-50s-guide/
+- https://ossan-kaizen.com/mens-body-mist-unscented-50s-guide/
+- https://ossan-kaizen.com/mens-body-care-hub-50s-guide/
+- https://ossan-kaizen.com/mens-thinning-hair-shampoo-50s-guide/
+- https://ossan-kaizen.com/mens-suit-wrinkle-steamer-50s-guide/
+- https://ossan-kaizen.com/mens-leather-shoe-polish-50s-guide/
+- https://ossan-kaizen.com/mens-leather-shoe-waterproof-spray-50s-guide/
+- https://ossan-kaizen.com/mens-suit-lint-roller-50s-guide/
+- https://ossan-kaizen.com/mens-mouthwash-unscented-sales-50s-guide/
+- https://ossan-kaizen.com/mens-leather-briefcase-care-50s-guide/
+- https://ossan-kaizen.com/mens-shirt-collar-stain-50s-guide/
+- https://ossan-kaizen.com/mens-suit-clothes-brush-50s-guide/
+- https://ossan-kaizen.com/mens-suit-fabric-refresher-spray-50s-guide/
+- https://ossan-kaizen.com/mens-shirt-collar-prewash-50s-guide/
 
 ※ 第8（頭皮匂い・デオドラント）は楽天アンファー公式限定のため Rinker／アフィリ不可 → **公開保留**。**第22がAmazon可の実用版**。ソースは `feed/hair/mens-shampoo-scalp-odor-40s-guide.html`（第8）と `feed/hair/mens-shampoo-scalp-odor-amazon-40s-guide.html`（第22）に残置。
 

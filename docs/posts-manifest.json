@@ -1,6 +1,6 @@
 {
   "site": "https://ossan-kaizen.com",
-  "updated_at": "2026-05-25T15:19:09Z",
+  "updated_at": "2026-05-29T15:33:08Z",
   "categories": {
     "skincare": {
       "wp_term_id": 4,
@@ -24,6 +24,114 @@
     }
   },
   "posts": {
+    "mens-hand-cream-sales-50s-guide": {
+      "file": "feed/body/mens-hand-cream-sales-50s-guide.html",
+      "wp_post_id": 247,
+      "rinker_post_id": "252",
+      "status": "publish"
+    },
+    "mens-body-trimmer-50s-guide": {
+      "file": "feed/grooming/mens-body-trimmer-50s-guide.html",
+      "wp_post_id": 259,
+      "rinker_post_id": "262",
+      "status": "publish"
+    },
+    "mens-shampoo-scalp-hub-40s-guide": {
+      "file": "feed/hair/mens-shampoo-scalp-hub-40s-guide.html",
+      "wp_post_id": 266,
+      "rinker_post_id": "21",
+      "status": "publish"
+    },
+    "mens-foot-deodorant-sales-50s-guide": {
+      "file": "feed/body/mens-foot-deodorant-sales-50s-guide.html",
+      "wp_post_id": 275,
+      "rinker_post_id": "278",
+      "status": "publish"
+    },
+    "mens-minimal-skincare-hub-50s-guide": {
+      "file": "feed/skincare/mens-minimal-skincare-hub-50s-guide.html",
+      "wp_post_id": 282,
+      "rinker_post_id": "59",
+      "status": "publish"
+    },
+    "mens-meeting-grooming-hub-50s-guide": {
+      "file": "feed/grooming/mens-meeting-grooming-hub-50s-guide.html",
+      "wp_post_id": 292,
+      "rinker_post_id": "252",
+      "status": "publish"
+    },
+    "mens-body-mist-unscented-50s-guide": {
+      "file": "feed/body/mens-body-mist-unscented-50s-guide.html",
+      "wp_post_id": 297,
+      "rinker_post_id": "301",
+      "status": "publish"
+    },
+    "mens-body-care-hub-50s-guide": {
+      "file": "feed/body/mens-body-care-hub-50s-guide.html",
+      "wp_post_id": 303,
+      "rinker_post_id": "103",
+      "status": "publish"
+    },
+    "mens-thinning-hair-shampoo-50s-guide": {
+      "file": "feed/hair/mens-thinning-hair-shampoo-50s-guide.html",
+      "wp_post_id": 320,
+      "rinker_post_id": "324",
+      "status": "publish"
+    },
+    "mens-suit-wrinkle-steamer-50s-guide": {
+      "file": "feed/grooming/mens-suit-wrinkle-steamer-50s-guide.html",
+      "wp_post_id": 329,
+      "rinker_post_id": "334",
+      "status": "publish"
+    },
+    "mens-leather-shoe-polish-50s-guide": {
+      "file": "feed/grooming/mens-leather-shoe-polish-50s-guide.html",
+      "wp_post_id": 337,
+      "rinker_post_id": "342",
+      "status": "publish"
+    },
+    "mens-leather-shoe-waterproof-spray-50s-guide": {
+      "file": "feed/grooming/mens-leather-shoe-waterproof-spray-50s-guide.html",
+      "wp_post_id": 345,
+      "rinker_post_id": "349",
+      "status": "publish"
+    },
+    "mens-suit-lint-roller-50s-guide": {
+      "file": "feed/grooming/mens-suit-lint-roller-50s-guide.html",
+      "wp_post_id": 358,
+      "rinker_post_id": "361",
+      "status": "publish"
+    },
+    "mens-mouthwash-unscented-sales-50s-guide": {
+      "file": "feed/body/mens-mouthwash-unscented-sales-50s-guide.html",
+      "wp_post_id": 365,
+      "rinker_post_id": "369",
+      "status": "publish"
+    },
+    "mens-leather-briefcase-care-50s-guide": {
+      "file": "feed/grooming/mens-leather-briefcase-care-50s-guide.html",
+      "wp_post_id": 374,
+      "rinker_post_id": "377",
+      "status": "publish"
+    },
+    "mens-shirt-collar-stain-50s-guide": {
+      "file": "feed/grooming/mens-shirt-collar-stain-50s-guide.html",
+      "wp_post_id": 382,
+      "rinker_post_id": "386",
+      "status": "publish"
+    },
+    "mens-suit-clothes-brush-50s-guide": {
+      "file": "feed/grooming/mens-suit-clothes-brush-50s-guide.html",
+      "wp_post_id": 390,
+      "rinker_post_id": "393",
+      "status": "publish"
+    },
+    "mens-suit-fabric-refresher-spray-50s-guide": {
+      "file": "feed/grooming/mens-suit-fabric-refresher-spray-50s-guide.html",
+      "wp_post_id": 402,
+      "rinker_post_id": "407",
+      "status": "publish"
+    },
     "mens-body-soap-separate-face-50s-guide": {
       "file": "feed/body/mens-body-soap-separate-face-50s-guide.html",
       "wp_post_id": 102,
@@ -48,17 +156,29 @@
       "rinker_post_id": "167",
       "status": "publish"
     },
+    "mens-eye-cream-50s-guide": {
+      "file": "feed/skincare/mens-eye-cream-50s-guide.html",
+      "wp_post_id": 224,
+      "rinker_post_id": "223",
+      "status": "publish"
+    },
     "mens-gray-hair-dye-beard-50s-guide": {
       "file": "feed/grooming/mens-gray-hair-dye-beard-50s-guide.html",
       "wp_post_id": 220,
       "rinker_post_id": "219",
       "status": "publish"
     },
-    "mens-minimal-grooming-nose-eyebrow-50s-guide": {
-      "file": "feed/grooming/mens-minimal-grooming-nose-eyebrow-50s-guide.html",
-      "wp_post_id": 91,
+    "mens-minimal-grooming-hub-50s-guide": {
+      "file": "feed/grooming/mens-minimal-grooming-hub-50s-guide.html",
+      "wp_post_id": 227,
       "rinker_post_id": "94",
       "status": "publish"
+    },
+    "mens-minimal-grooming-nose-eyebrow-50s-guide": {
+      "wp_post_id": 91,
+      "rinker_post_id": "94",
+      "status": "publish",
+      "file": "feed/grooming/mens-minimal-grooming-nose-eyebrow-50s-guide.html"
     },
     "mens-razor-sensitive-skin-50s-guide": {
       "file": "feed/grooming/mens-razor-sensitive-skin-50s-guide.html",
@@ -104,7 +224,7 @@
     },
     "mens-shampoo-scalp-odor-40s-guide": {
       "file": "feed/hair/mens-shampoo-scalp-odor-40s-guide.html",
-      "wp_post_id": null,
+      "wp_post_id": 337,
       "rinker_post_id": "81",
       "status": "hold"
     },
@@ -156,6 +276,12 @@
       "rinker_post_id": "19",
       "status": "publish"
     },
+    "mens-outdoor-uv-hub-sales-guide": {
+      "file": "feed/sunscreen/mens-outdoor-uv-hub-sales-guide.html",
+      "wp_post_id": 232,
+      "rinker_post_id": "20",
+      "status": "publish"
+    },
     "sales-outdoor-uv-not-sticky": {
       "file": "feed/sunscreen/sales-outdoor-uv-not-sticky.html",
       "wp_post_id": 46,
@@ -166,6 +292,90 @@
       "file": "feed/sunscreen/uv-reapply-stick-sales-guide.html",
       "wp_post_id": 65,
       "rinker_post_id": "66",
+      "status": "publish"
+    },
+    "mens-shirt-collar-prewash-50s-guide": {
+      "file": "feed/grooming/mens-shirt-collar-prewash-50s-guide.html",
+      "wp_post_id": 439,
+      "rinker_post_id": "443",
+      "status": "publish"
+    },
+    "mens-shirt-collar-stubborn-prewash-50s-guide": {
+      "file": "feed/grooming/mens-shirt-collar-stubborn-prewash-50s-guide.html",
+      "wp_post_id": 449,
+      "rinker_post_id": "448",
+      "status": "publish"
+    },
+    "mens-foot-spray-sales-50s-guide": {
+      "file": "feed/body/mens-foot-spray-sales-50s-guide.html",
+      "wp_post_id": 455,
+      "rinker_post_id": "454",
+      "status": "publish"
+    },
+    "mens-body-powder-spray-50s-guide": {
+      "file": "feed/body/mens-body-powder-spray-50s-guide.html",
+      "wp_post_id": 463,
+      "rinker_post_id": "458",
+      "status": "publish"
+    },
+    "mens-winter-dry-skin-hub-50s-guide": {
+      "file": "feed/skincare/mens-winter-dry-skin-hub-50s-guide.html",
+      "wp_post_id": 473,
+      "rinker_post_id": "128",
+      "status": "publish"
+    },
+    "mens-suit-fabric-refresher-budget-50s-guide": {
+      "file": "feed/grooming/mens-suit-fabric-refresher-budget-50s-guide.html",
+      "wp_post_id": 483,
+      "rinker_post_id": "481",
+      "status": "publish"
+    },
+    "mens-toothpaste-bad-breath-sales-50s-guide": {
+      "file": "feed/body/mens-toothpaste-bad-breath-sales-50s-guide.html",
+      "wp_post_id": 490,
+      "rinker_post_id": "485",
+      "status": "publish"
+    },
+    "mens-nape-line-self-shave-50s-guide": {
+      "file": "feed/grooming/mens-nape-line-self-shave-50s-guide.html",
+      "wp_post_id": 496,
+      "rinker_post_id": "495",
+      "status": "publish"
+    },
+    "mens-toothpaste-breath-care-50s-guide": {
+      "file": "feed/body/mens-toothpaste-breath-care-50s-guide.html",
+      "wp_post_id": 522,
+      "rinker_post_id": "523",
+      "status": "publish"
+    },
+    "mens-toothpaste-gum-care-50s-guide": {
+      "file": "feed/body/mens-toothpaste-gum-care-50s-guide.html",
+      "wp_post_id": 543,
+      "rinker_post_id": "549",
+      "status": "publish"
+    },
+    "mens-toothpaste-stain-care-50s-guide": {
+      "file": "feed/body/mens-toothpaste-stain-care-50s-guide.html",
+      "wp_post_id": 557,
+      "rinker_post_id": "560",
+      "status": "publish"
+    },
+    "mens-mouthwash-listerine-zero-plus-50s-guide": {
+      "file": "feed/body/mens-mouthwash-listerine-zero-plus-50s-guide.html",
+      "wp_post_id": 566,
+      "rinker_post_id": "568",
+      "status": "publish"
+    },
+    "mens-mouthwash-ora2-stain-clear-50s-guide": {
+      "file": "feed/body/mens-mouthwash-ora2-stain-clear-50s-guide.html",
+      "wp_post_id": 573,
+      "rinker_post_id": "575",
+      "status": "publish"
+    },
+    "mens-adogen-dry-shampoo-50s-guide": {
+      "file": "feed/hair/mens-adogen-dry-shampoo-50s-guide.html",
+      "wp_post_id": 585,
+      "rinker_post_id": "586",
       "status": "publish"
     }
   }
